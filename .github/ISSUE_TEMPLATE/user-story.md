@@ -1,14 +1,13 @@
 ---
 name: User Story
 about: High level overview of small business value
-title: ''
-labels: ''
-assignees: ''
 
 ---
 
 **As a** [role]
+
 **I want** [description]
+
 **So that** [value]
 
 ### Details and Assumptions
